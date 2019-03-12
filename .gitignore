@@ -1,0 +1,32 @@
+# Wordpress
+wp/
+wp-content/cache
+wp-content/plugins
+wp-content/themes
+wp-content/uploads
+wp-content/upgrade
+wp-content/debug.log
+wp-content/ewww
+
+# wordpress-mu-domain-mapping
+wp-content/sunrise.php
+
+# wordpress-query-monitor
+wp-content/db.php
+
+# Package managers/editors
+vendor
+composer.lock
+.vscode
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+.Trashes
+Thumbs.db
+*.scssc
+
+# test stuff #
+######################
+info.php
