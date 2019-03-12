@@ -58,7 +58,7 @@ define( 'WP_DEBUG_LOG', false );
 define( 'FORCE_SSL_ADMIN', false );
 define( 'SAVEQUERIES', false );
 define( 'WP_CONTENT_DIR', __DIR__ . '/wp-content' );
-define( 'WP_MAX_MEMORY_LIMIT', '256M' );
+define( 'WP_MEMORY_LIMIT', '256M' );
 
 /** AWS S3 Uploads directory **/
 if (isset($_SERVER['HTTP_X_FORWARDED_PROTO']) and $_SERVER['HTTP_X_FORWARDED_PROTO'] == 'https') {
