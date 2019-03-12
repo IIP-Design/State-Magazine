@@ -42,7 +42,7 @@
     "koodimonni/composer-dropin-installer": "1.0",
     "humanmade/s3-uploads": "dev-master",
     "iip-design/Newspaper": "9.6",
-    "iip-design/td-composer": "2.3c",
+    "iip-design/td-composer": "2.3.0.3",
     "iip-design/wp-hide-login-form": "1.0.1",
     "wpackagist-plugin/google-apps-login": "3.2",
     "wpackagist-plugin/wordpress-mu-domain-mapping": "0.5.5.1",
