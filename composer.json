@@ -53,6 +53,10 @@
     },
     {
       "type": "git",
+      "url": "git@github.com:IIP-Design/td-standard-pack.git"
+    },
+    {
+      "type": "git",
       "url": "git@github.com:IIP-Design/wp-hide-login-form.git"
     },
     {
@@ -72,6 +76,7 @@
     "iip-design/td-mobile-plugin": "1.3",
     "iip-design/td-newsletter": "1.5",
     "iip-design/td-social-counter": "4.7",
+    "iip-design/td-standard-pack": "1.0",
     "iip-design/wp-hide-login-form": "1.0.1",
     "iip-design/nextgen-gallery-pro": "v3.0.9",
     "wpackagist-plugin/amp": "1.4.2",
